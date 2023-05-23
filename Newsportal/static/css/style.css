@@ -1,0 +1,20 @@
+h1{
+     background: blue;
+     color: red;
+     text-align: center;
+}
+img{
+     height: 350px;
+     width: 300px;
+     border: 5px solid red;
+     margin: 90px;
+
+}
+body{
+     background-color: yellow;
+}
+ul{
+     font-size: 20px;
+     text-align: left;
+     margin: 25px;
+}
